@@ -1,0 +1,39 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    background: url(img/fundo.jpg)  center center / cover;
+    
+
+}
+header{
+    width: 100vw;
+    height: 200px;
+    background: url(img/combate.jpg) no-repeat right center / cover;
+    color: white;
+    box-shadow: 5px 5px 10px rgba(243, 243, 243, 0.384);
+    text-align: center;
+
+
+}
+
+main{
+    width: 350px;
+    background-color: rgba(0, 0, 0, 0.336);
+    margin: auto;
+    padding-top: 10px;
+    color: white;
+}
+
+li{
+    list-style: none;
+    padding: 5px;
+}
+
+#video{
+    padding: 50px;
+    text-align: center;
+}
